@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sunjce_provider">
+    <CLASSES>
+      <root url="jar:///lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

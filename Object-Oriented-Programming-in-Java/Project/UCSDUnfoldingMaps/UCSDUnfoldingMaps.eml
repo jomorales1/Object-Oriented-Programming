@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component jdk="14" jdk_type="JavaSDK">
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
 	<exclude-output/>
 	<contentEntry url="file://$MODULE_DIR$"/>
 	<lib name="core.jar" scope="COMPILE">
@@ -26,4 +26,7 @@
 	<lib name="unfolding.0.9.7-uscd.jar" scope="COMPILE">
 		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/unfolding.0.9.7-uscd.jar!/"/>
 	</lib>
+	<levels>
+		<level name="sunjce_provider" value="project"/>
+	</levels>
 </component>
